@@ -5,7 +5,7 @@ studying computer science
 ## 🌤 About Me   
 - I’m currently learning **Python, Java,PostgreSQL** and others.      
 - I am looking to develop my programming skills, learn new technologies and continue coding.
-- I like listening to music, listening to video games, watching anime and code.
+- I like listening to music,playing video games, watching anime and code.
 
 ## 🛠️ Languages and Tools  
 **Programming:**  
